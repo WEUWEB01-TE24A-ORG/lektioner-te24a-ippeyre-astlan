@@ -1,0 +1,16 @@
+body{
+    background-color: rgb(211, 196, 136);
+    background-size: 620px 917px;
+    background-image: url(./bilder/cai-fang-MosuSWkirTI-unsplash.jpg);
+}
+
+h1 {
+    color: firebrick;
+    font-size: 50px;
+    font-family: sans-serif;
+}
+p {
+    color: brown;
+    font-size: 20px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
