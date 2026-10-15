@@ -1,0 +1,30 @@
+@import url('https://fonts.googleapis.com/css2?family=Cinzel:wght@400..900&family=Creepster&display=swap');
+
+
+body{}
+table{
+     background-color: #fbff00;
+     font-size: 25px;
+}
+caption{
+     background-color: #f800fd;     
+     font-size: 50px;
+     font-style: italic;
+     background-image: url(./Bilder/jon-tyson-Vl9u94L3NTQ-unsplash.jpg);
+
+}
+tr{}
+th{
+    padding: 10px;
+     font-family: "Cinzel", serif;
+}
+td{
+font-size: 20px;
+padding: 10px;
+ font-family: "Creepster", serif;
+ text-align: center;
+}
+img{
+    width: 250px ;
+   
+}
